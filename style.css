@@ -1,0 +1,12 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: greenyellow;
+    text-align: center;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+    text-align: center;
+    border: 2px dotted blue;
+}
